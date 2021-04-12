@@ -1,2 +1,2 @@
 # FONDA
-Rna-seq workflows
+Snakemake and Nextflow RNA-seq workflows
