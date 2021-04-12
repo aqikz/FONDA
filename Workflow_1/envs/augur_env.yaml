@@ -1,0 +1,14 @@
+name: augur_env
+channels:
+    - bioconda
+    - default
+dependencies:
+    - mafft
+    - iqtree=2.0.3
+    - ete3
+    - pip
+    - pip:
+        - nextstrain-augur
+        - biopython==1.77
+        - matplotlib==3.2.2
+        - numpy==1.19.0

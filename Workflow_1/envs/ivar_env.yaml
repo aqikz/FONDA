@@ -1,0 +1,6 @@
+name: ivar_env
+channels:
+    - bioconda
+dependencies:
+    - samtools=1.9
+    - ivar=1.2.2
