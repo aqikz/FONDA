@@ -1,0 +1,15 @@
+reference:
+    /data/reference/sequence.fasta
+index:
+    /data/reference/bowtie_index
+sequencing_adaptors:
+    /data/adaptors/Sequencing_adaptors.fasta
+samples:
+    /Users/Aqib/Documents/WORK_IC/FONDA/Snakemake/Workflow_1/data/samples.csv
+sample_dir:
+    /Users/Aqib/Documents/WORK_IC/FONDA/Snakemake/Workflow_1/data/
+bowtie_parameters:
+    p_param:    2
+    np_param:   1
+window_size_x:
+    100
